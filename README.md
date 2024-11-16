@@ -1,6 +1,6 @@
 # Fundoo Notes - A Note-Taking App
 
-[Link Text]https://visnu1.github.io/fundoo/ 
+[App]https://visnu1.github.io/fundoo/ 
 
 ## Introduction
 **Fundoo Notes** is a simple and intuitive note-taking application inspired by Google Keep. It allows users to create, edit, organize, and delete notes effortlessly. The app is built using the **MEAN** stack, which includes **MongoDB**, **Express.js**, **Angular**, and **Node.js**.

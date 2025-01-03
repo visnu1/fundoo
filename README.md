@@ -12,12 +12,12 @@ This project is perfect for those who want a full-featured notes app for persona
 ## Screenshots
 
 ![Fundoo Notes Screenshot](./assets/screenshots/dashboard.png)
-![Screenshot-1](./assets/screenshots/screenshot3.png)
-![Screenshot-1](./assets/screenshots/screenshot1.png)
-![Screenshot-1](./assets/screenshots/screenshot4.png)
-![Screenshot-1](./assets/screenshots/screenshot5.png)
-![Screenshot-1](./assets/screenshots/screenshot6.png)
-![Screenshot-1](./assets/screenshots/screenshot7.png)
+![Preview-1](./assets/screenshots/screenshot3.png)
+![Preview-2](./assets/screenshots/screenshot1.png)
+![Preview-3](./assets/screenshots/screenshot4.png)
+![Preview-4](./assets/screenshots/screenshot5.png)
+![Preview-5](./assets/screenshots/screenshot6.png)
+![Preview-6](./assets/screenshots/screenshot7.png)
 
 
 ## Features
